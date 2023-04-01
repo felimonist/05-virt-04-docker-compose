@@ -22,4 +22,4 @@
 
  Провал в графике ,это был ручной рестарт контейнеров и из-за проблем с одним из них.
  
-![slave](https://github.com/felimonist/05-virt-04-docker-compose/blob/main/img/4.JPG)
+![slave](https://github.com/felimonist/05-virt-04-docker-compose/blob/main/img/4.1.JPG)
